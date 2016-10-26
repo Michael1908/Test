@@ -1,2 +1,2 @@
 # Test
-It proves the first repository
+First repository
